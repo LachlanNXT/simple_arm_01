@@ -28,6 +28,6 @@
   </node>
 
   <!-- The look away node -->
-  <node name="look_away.py" type="look_away" pkg="simple_arm"/>
+  <node name="look_away" type="look_away.py" pkg="simple_arm"/>
 
 </launch>
